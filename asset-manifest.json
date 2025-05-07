@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-educator-chatbot/static/css/main.539423c1.css",
+    "main.js": "/ai-educator-chatbot/static/js/main.3005105d.js",
+    "static/js/453.875f79e1.chunk.js": "/ai-educator-chatbot/static/js/453.875f79e1.chunk.js",
+    "index.html": "/ai-educator-chatbot/index.html",
+    "main.539423c1.css.map": "/ai-educator-chatbot/static/css/main.539423c1.css.map",
+    "main.3005105d.js.map": "/ai-educator-chatbot/static/js/main.3005105d.js.map",
+    "453.875f79e1.chunk.js.map": "/ai-educator-chatbot/static/js/453.875f79e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.539423c1.css",
+    "static/js/main.3005105d.js"
+  ]
+}
